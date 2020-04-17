@@ -1,3 +1,3 @@
 # icpc_notebook
 
-Source codes I used when I was competing at ICPC.
+Source codes used when I was competing at ICPC.
